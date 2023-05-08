@@ -20,6 +20,7 @@ const projectsList = [
     title: 'Music Page',
     description:
       'The music page enables the users to browse through the images of all-time favorite music albums.',
+    googleUrl: 'https://gbmusic.ccbp.tech/'
   },
   {
     projectId: 1,
@@ -28,7 +29,16 @@ const projectsList = [
     title: 'Tourism Website',
     description:
       'A tourism website enables the user to browse through the images of popular destinations.',
+    googleUrl : 'https://gbtourism.ccbp.tech/',
   },
+//   {
+//     projectId:2,
+//     category:'STATIC',
+//     title:'Podcast',
+//     description:
+//     ''
+//   }
+  
   {
     projectId: 2,
     category: 'STATIC',
